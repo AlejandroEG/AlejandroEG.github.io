@@ -1,38 +1,9 @@
-        td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF}
-         a {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #CCF7AC; text-decoration: none}
-         a:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #CCF7AC; text-decoration: underline}
-         .titulo {  font-size: 12px; font-weight: bold; color: #EAF1F3}
-         .unnamed1 {  color: #99CCCC}
+td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF}
+a {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #BFFF00; text-decoration: none}
+a:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #BFFF00; text-decoration: underline}
+.titulo {  font-size: 12px; font-weight: bold; color: #EAF1F3}
+.unnamed1 {  color: #BFFF00}
 
-      BODY
-      {scrollbar-face-color: #000000; scrollbar-shadow-color: #99CCCC; scrollbar-highlight-color: #000000; scrollbar-3dlight-color: #99CCCC; scrollbar-darkshadow-color: #666666; scrollbar-track-color: #000000; scrollbar-arrow-color: #99CCCC}
-      .txt2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #999999; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: 0px #CCCCCC; background-color: #000000;}.unnamed3 {  color: #99CCCC; background-color: #000000; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: #000000}
-      .buscaa {
-      background-color: #2D2C29;
-      color: #FFFFFF;
-      font-size: 10px;
-      font-family: Verdana, Arial, Helvetica, sans-serif;
-      font-weight: bold;
-      border: thin solid #2D2C29;
-      padding: 2px;
-      }
-      .buscab {
-      background-color: #2D2C29;
-      color: #FFFFFF;
-      font-size: 10px;
-      font-family: Verdana, Arial, Helvetica, sans-serif;
-      font-weight: bold;
-      border: 1px solid #BDD0D6;
-      padding: 3px;
-      }
-
-         td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF}
-         a {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #CCF7AC; text-decoration: none}
-         a:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #CCF7AC; text-decoration: underline}
-         .titulo {  font-size: 12px; font-weight: bold; color: #EAF1F3}
-         .unnamed1 {  color: #99CCCC}
-         -->
-
-      BODY
-      {scrollbar-face-color: #000000; scrollbar-shadow-color: #99CCCC; scrollbar-highlight-color: #000000; scrollbar-3dlight-color: #99CCCC; scrollbar-darkshadow-color: #666666; scrollbar-track-color: #000000; scrollbar-arrow-color: #99CCCC}
-      .txt2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #999999; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: 0px #CCCCCC; background-color: #000000;}.unnamed3 {  color: #99CCCC; background-color: #000000; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: #000000}
+BODY
+{scrollbar-face-color: #000000; scrollbar-shadow-color: #BFFF00; scrollbar-highlight-color: #000000; scrollbar-3dlight-color: #BFFF00; scrollbar-darkshadow-color: #666666; scrollbar-track-color: #000000; scrollbar-arrow-color: #BFFF00}
+.txt2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #999999; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: 0px #CCCCCC; background-color: #000000;}.unnamed3 {  color: #BFFF00; background-color: #000000; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: #000000}
